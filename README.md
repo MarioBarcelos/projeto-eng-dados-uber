@@ -1,4 +1,4 @@
-# Analise de Dados Uber | Projeto Moderno de Engenharia de Dados GCP
+# Análise de Dados Uber | Projeto Moderno de Engenharia de Dados GCP
 
 ## Intrudução
 Com o objetivo de obter as melhoras práticas do mercado, realizo uma análize de Dados da Uber usando diferentes ferramentas e tecnologias, incluindo Linguagem de programação Python, Computação em Nuvem GCP(Cloud Storage, Compute Engine, Compute Instance, BigQuery), Mage Data Pipeline Tool, e Looker Studio. 
