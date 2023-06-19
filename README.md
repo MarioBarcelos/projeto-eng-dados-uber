@@ -10,7 +10,9 @@ Com o objetivo de obter as melhoras práticas do mercado, realizo uma análize d
 Dados de registro de viagem do TLC
 
 Mais informações sobre o conjunto de dados podem ser encontradas aqui:
+
 Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 Dicionario dos Dados - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Modelagem de Dados
@@ -23,7 +25,9 @@ Dicionario dos Dados - https://www.nyc.gov/assets/tlc/downloads/pdf/data_diction
 <img src="Dashboard_Uber.jpg">
 
 Ferramenta moderna de pipeline de dados - https://www.mage.ai/
+
 Contribua para este belo projeto de código aberto - https://github.com/mage-ai/mage-ai
 
 Mais informações <a href "https://www.linkedin.com/in/mario-barcelos/">Mario Barcelos</a>
+
 Agradecimentos Darshil Parmar
