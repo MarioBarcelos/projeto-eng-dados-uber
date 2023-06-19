@@ -10,6 +10,7 @@ Com o objetivo de obter as melhoras práticas do mercado, realizo uma análize d
 Dados de registro de viagem do TLC
 
 Mais informações sobre o conjunto de dados podem ser encontradas aqui:
+
 Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Dicionario dos Dados - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
