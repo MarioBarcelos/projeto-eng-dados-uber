@@ -16,7 +16,7 @@ Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 Dicionario dos Dados - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Modelagem de Dados
-<img src="modelagem_de_dados.jpg">
+<img src="modelagem_de_dados.png">
 
 ## ETL Mage + Compute Engine
 <img src="ETL_no_mage.png">
