@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "uber-d-e-project",
+  "private_key_id": "fbe2b4c0b94a9b18a6***",
+  "private_key": "-----BEGIN PRIVATE KEY-----***",
+  "client_email": "uber-project-d-e@***",
+  "client_id": "102550959166***",
+  "auth_uri": "https://accounts.google.com/o/oau***",
+  "token_uri": "https://oauth2.googleapis***",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oau***",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ub***",
+  "universe_domain": "google***"
+}
