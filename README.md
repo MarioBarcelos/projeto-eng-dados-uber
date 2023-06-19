@@ -28,6 +28,6 @@ Ferramenta moderna de pipeline de dados - https://www.mage.ai/
 
 Contribua para este belo projeto de código aberto - https://github.com/mage-ai/mage-ai
 
-Mais informações <a href"https://www.linkedin.com/in/mario-barcelos/">Mario Barcelos</a>
+Mais informações <a href "https://www.linkedin.com/in/mario-barcelos/">Mario Barcelos</a>
 
 Agradecimentos Darshil Parmar
