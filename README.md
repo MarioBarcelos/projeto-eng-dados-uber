@@ -8,7 +8,7 @@ Utilizando Dados de origem pública, disponibilizados pela cidade de Nova Iorque
 Dentro da ferramenta GCP BigQuery, configuro uma nova 'Table' com SQL e integro ao Looker Studio para produzir um Dashboard interativo com Filtros, Resumo detalhado de Valores, Resumo por Geolocalização e Resumo gráficos em Barras.  
 
 ## Linguagem de programação 
-> Python
+> Python e
 > SQL
 
 ## Computação em Nuvem 
