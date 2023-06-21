@@ -12,7 +12,7 @@ Utilizando Dados de origem pública, disponibilizados pela cidade de Nova Iorque
 ## Computação em Nuvem 
 > GCP (Cloud Storage, Compute Engine, Compute Instance, BigQuery)
 
-## Ferramenta para o ETL
+## Ferramenta para ETL
 > Mage Data Pipeline Tool
 
  ## Visualização
