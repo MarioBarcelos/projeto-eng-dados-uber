@@ -4,6 +4,7 @@
 
 ## Intrudução
 Utilizando Dados de origem pública, disponibilizados pela cidade de Nova Iorque/EUA, inicio as atividades criando um 'schema' dos Dados via Lucid.app, no Jupyter Notebook, realizo uma pré-análise dos Dados afim de definir as melhores configurações, em seguida, crio um cenário via GCP Compute Engine e 'Carrego' os Dados de forma bruta no GCP Cloud Storage, via VM Debian SSH, inicio as operações de ETL utilizando o Mage, repaso a localização do GCP Cloud Storage para 'Extrair' os Dados, transfiro as configurações definidas no Jupiter Notebook para a etapa de 'Transformação' e 'Carrego' os Dados no Data Warehouse utilizando configurações via GCP BigQuery. 
+
 Dentro da ferramenta GCP BigQuery, configuro uma nova 'Table' com SQL e integro ao Looker Studio para produzir um Dashboard interativo com Filtros, Resumo detalhado de Valores, Resumo por Geolocalização e Resumo gráficos em Barras.  
 
 ## Linguagem de programação 
