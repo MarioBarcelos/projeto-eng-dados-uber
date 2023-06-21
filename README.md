@@ -1,7 +1,8 @@
 # Análise de Dados Uber | Projeto Moderno de Engenharia de Dados GCP
 
-## Intrudução
 > ### Com o objetivo de obter as melhoras práticas do mercado, realizo uma análize de Dados da Uber usando diferentes ferramentas e tecnologias.
+
+## Intrudução
 Utilizando Dados de origem pública, disponibilizados pela cidade de Nova Iorque/EUA, inicio as atividades realizando uma pré análise no Jupyter Notebook afim de definir as melhores configurações para os dados, em seguida crio um cenário via GCP Compute Engine e 'Carrego' os Dados de forma bruta no GCP Cloud Storage, via VM Debian SSH, inicio as operações de ETL utilizando o Mage, repaso a localização do GCP Cloud Storage para Extrair os Dados, transfiro as configurações definidas no Jupiter Notebook para a etapa de 'Transformação' e carrego os Dados no Data Warehouse utilizando configurações via GCP BigQuery. Dentro da ferramenta GCP BigQuery, configuro uma nova 'Table' com SQL e integro ao Looker Studio para produzir um Dashboard interativo com Filtros, Resumo detalhado de Valores, Resumo por Geolocalização e Resumo gráficos em Barras.  
 
 ## Linguagem de programação 
